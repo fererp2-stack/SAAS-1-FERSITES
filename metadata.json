@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Travel Journal & Planner",
+  "description": "Experiencia web cinematográfica de viajes con narrativa visual, postales físicas interactivas, galería editorial y planificación de rutas a medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
